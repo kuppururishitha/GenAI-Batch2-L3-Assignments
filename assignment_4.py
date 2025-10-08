@@ -61,7 +61,7 @@ def main():
     # Optionally, plot the 3D surface
     plot_3d_surface(df, model)
     
-    # Predict from user input
+    # Predict from input
     predict_from_input(model)
 
 if __name__ == '__main__':
